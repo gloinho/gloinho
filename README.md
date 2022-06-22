@@ -11,7 +11,7 @@
 <a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
 -->
-- 🌱 I’m currently learning more about front-end stuff like HTML, CSS and JavaScript to implement my studies on Django and Django RestFramework
+- 🌱 I’m currently learning more about front-end stuff like HTML, CSS and JavaScript ( on The Odin Project) to implement my studies on Django and Django RestFramework
 - 👯 I’m looking to collaborate on any Python begginner projects
 - 💬 Ask me about anything!!!
 - 📫 How to reach me: gl0inn@hotmail.com
