@@ -1,7 +1,7 @@
 <h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm a Civil Engineer, currently changing carrer!. </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+  <img height = '400' src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
 </p>
 
 
