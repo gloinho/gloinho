@@ -18,7 +18,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a dog named PEPEU 🌭, a cat named GATA 🐈 and a parrot named PETRUCIO 🦜.
 
-##🧙🏻 Technologies  
+## 🧙🏻 Technologies  
 
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
