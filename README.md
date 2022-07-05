@@ -18,3 +18,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a dog named PEPEU 🌭, a cat named GATA 🐈 and a parrot named PETRUCIO 🦜.
 
+##🧙🏻 Technologies  
+
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+
