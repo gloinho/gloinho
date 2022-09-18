@@ -11,8 +11,8 @@
 <a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
 -->
-- 🌱 I’m currently taking the CS50 Web course, learning more about HTML, CSS, JavaScript, Python 🐍 and Django!
-- 👯 I’m looking to collaborate on any Python begginner projects
+- 🌱 I’m currently taking C# .NET course at Raro Academy! 
+- 👯 I’m looking to collaborate on any begginner projects, just email me!
 - 💬 Ask me about anything!!!
 - 📫 How to reach me: gl0inn@hotmail.com
 - 😄 Pronouns: He/Him
