@@ -1,7 +1,7 @@
 <h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm a .NET Developer at Raro Labs </samp></h4>
 
 <p align="center">
-  <img height = '400' src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
+  <img height = '400' src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 
