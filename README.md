@@ -33,7 +33,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **I'm an Early 🐤** 
 
@@ -62,14 +62,12 @@ Sunday                   29 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   3 hrs 32 mins       ██████████████████████░░░   88.38 % 
-Dart                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Python                   2 hrs 57 mins       ████████████████████████░   95.49 % 
+Dart                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 
- Last Updated on 15/06/2024 18:36:34 UTC
+ Last Updated on 16/06/2024 18:36:40 UTC
 <!--END_SECTION:waka-->
 
