@@ -33,7 +33,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -70,6 +70,6 @@ Markdown                 5 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/06/2024 18:36:02 UTC
+ Last Updated on 30/06/2024 18:36:53 UTC
 <!--END_SECTION:waka-->
 
