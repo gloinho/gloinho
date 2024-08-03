@@ -15,7 +15,7 @@
 - 💬 Ask me about anything!!!
 - 📫 How to reach me: gl0inn@hotmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a dog named PEPEU 🌭, a cat named GATA 🐈 and a parrot named PETRUCIO 🦜.
+- ⚡ Fun fact: I have a dog named PEPEU 🌭, a cat named GATA 🐈.
 
 ## 🧙🏻 Technologies  
 
